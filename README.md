@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @lcdeadlock
+# 👋 Hi, I’m @lcdeadlock (Deepak)
 
 - **👀 I’m interested in:** JavaScript development, specifically with React and Next.js. I enjoy exploring new technologies and improving my coding skills.
 
